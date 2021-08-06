@@ -13,7 +13,8 @@
 
 **A standard medical approach for the Alzheimer’s is highly necessitates. MRI Scanning detects patterns that will clearly distinguish AD subjects from healthy controls (HCs) and describe the dissimilarity among Mild Cognitive Impairment subjects and HCs **
 
-#Research 
+# Research 
+
 **Buckner et al., 2004; Salat et al., 2004; 
 Buckner et al., 2005; Head et al., 2005; 
 Burns et al., 2005; Fotenos et al., 2005; 
