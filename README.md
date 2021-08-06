@@ -1,11 +1,11 @@
 # Alzheimer-s_Prediction
 
- #  **Introduction**
+ #  Introduction
 
-**Technology towards the Health domain is a rigorous demand due to the inhabitant growth. As Health Catalyst, analyze data related to real-time predictions to physicians in Electronic Records and medical practitioners to aid clinical decision making. Due to its Broad range of machine learning applications like Disease Identification.In Medicals, Chronic disease is a dreadful attack for the individuals which persists for a long duration, and today, the number can double and has never been treated **
-**
-**Artificial Intelligence encompasses advanced Techniques like Machine Learning, Deep Learning, and Representation Learning which are known as expert systems in dealing with Classification, Risk Assessment, Segmentation, Diagnosing, prognosis, and even in Prediction at earlier**
-**
+Technology towards the Health domain is a rigorous demand due to the inhabitant growth. As Health Catalyst, analyze data related to real-time predictions to physicians in Electronic Records and medical practitioners to aid clinical decision making. Due to its Broad range of machine learning applications like Disease Identification.In Medicals, Chronic disease is a dreadful attack for the individuals which persists for a long duration, and today, the number can double and has never been treated 
+
+Artificial Intelligence encompasses advanced Techniques like Machine Learning, Deep Learning, and Representation Learning which are known as expert systems in dealing with Classification, Risk Assessment, Segmentation, Diagnosing, prognosis, and even in Prediction at earlier**
+
 
 # Background 
 
@@ -27,8 +27,6 @@ cross-sectional OASIS data set (Marcus et al., 2007)
 # Who
 Most adults were prone to this situation which makes brain cells deteriorate and flush out, eventually crumble many other areas. As it long progresses, the individual loses one’s ability to reside and function. No meditation can treat or no less than lags the malady progression. At a juncture, the valetudinarian agonizes dehydration, malnutrition, or infection and sometimes may end the life. Diagnosing Brain Functions and contemplate Dementia is entailing else the rate mounts to 125 million ailings by 2050. Predicting Alzheimer’s also strenuous due to its uncertainty.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedlineplus.gov%2Fency%2Farticle%2F000760.htm&psig=AOvVaw0jl5oW3WdrltpIKVPJPORo&ust=1628334129661000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDHnr6fnPICFQAAAAAdAAAAABAD
-
 
  # What
  
@@ -42,8 +40,24 @@ Conventionally Cerebrum, cerebellum and Brain stem responsible in the control of
 
 # How
 Early Detection can be possible using advance computersied Techqiues which are used in the space and other challenging Domains using Object Detection. The MRI Images are fed to Machine learning Algorithms.
-**
-Here the Pre-trained Deep learning Tools hit the Successfull achievments to predict the initial Alzheimer's condition**
+
+Here the Pre-trained Deep learning Tools hit the Successfull achievments to predict the initial Alzheimer's condition
+# Model Training 
+# Prerequisites
+Required packages can be installed on python3.6 environment via command
+
+pip3 install -r requirements.txt
+ in the Google GPU platform
+# Data
+The preprocessing tools that extracts medical code for datasets are enclosed in data
+python3 preprocess_{dataset}.py --input_path {dataset_path} --output_path {storage_path}
+
+# Train
+
+# Architecture
+
+
+
 
 
 
