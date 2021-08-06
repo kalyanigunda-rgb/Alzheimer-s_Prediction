@@ -13,6 +13,8 @@ Alzheimer’s varies from usual cerebral aging. Healthy aging shrinks a nanoscop
 
 A standard medical approach for the Alzheimer’s is highly necessitates. MRI Scanning detects patterns that will clearly distinguish AD subjects from healthy controls (HCs) and describe the dissimilarity among Mild Cognitive Impairment subjects and HCs 
 
+![Screenshot](screenshot.png)
+
 # Research 
 
 Buckner et al., 2004; Salat et al., 2004; 
