@@ -1,0 +1,5 @@
+# Requirements
+1. Google Cloud Platform which has inbuilt Machine Learning packages
+2. Pre-trained CNN Packages Downloaded 
+3. Fastai Framework
+ 4. Create Datablock to store Data Resource
