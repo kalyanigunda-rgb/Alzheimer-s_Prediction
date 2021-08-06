@@ -1,5 +1,7 @@
 # Alzheimer-s_Prediction
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf390a723ed94cba8a7501582e9b0315)](https://app.codacy.com/gh/kalyanigunda-rgb/Alzheimer-s_Prediction?utm_source=github.com&utm_medium=referral&utm_content=kalyanigunda-rgb/Alzheimer-s_Prediction&utm_campaign=Badge_Grade_Settings)
+
  #  **Introduction**
 
 **Technology towards the Health domain is a rigorous demand due to the inhabitant growth. As Health Catalyst, analyze data related to real-time predictions to physicians in Electronic Records and medical practitioners to aid clinical decision making. Due to its Broad range of machine learning applications like Disease Identification.In Medicals, Chronic disease is a dreadful attack for the individuals which persists for a long duration, and today, the number can double and has never been treated **
